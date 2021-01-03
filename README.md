@@ -1,10 +1,13 @@
 # Master's Thesis
 
-This repository contains a snapshot the Jupyter notebooks I used for my thesis.
+This repository contains a snapshot the Jupyter notebooks I used for my 2020 master's thesis *Contrastive Predictive Coding on Temporal Graphs*.
 
 The BN16 data is available at https://zenodo.org/record/3862966
 
-Note that figures and outputs in the notebooks may not represent the findings recorded. They can, however, be reproduced.
+Note that figures and outputs in the notebooks may not represent the findings recorded.
+All thesis results can, however, be reproduced.
+
+The CPC paper reproduction code can be found in `cpc_reproduction`, the take on BN16 graphs in `bn16`. See the respective Readme for further details.
 
 Dependencies for the CPC reproduction: 
 * python 3.7 
