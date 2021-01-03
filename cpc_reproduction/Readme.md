@@ -1,0 +1,3 @@
+If you use conda, you can use the `conda.sh` to set up the dependencies (see top-level Readme). They are also present in the first code cell, installed via pip. Use whatever fits your needs. I executed the commands in mid-2020 - things might have changed since then and require minor adjustments.
+
+TorchAudio can be used to download the LibriSpeech dataset (set `download` to `True`). But it's >6 GB, so better download it once and then set `download` to `False` again. I conducted this experiment on Google Colab. That's why there are various Colab-specific artifacts in the notebook. I left the comments I made for my self in the notebook, as they may also help other readers.

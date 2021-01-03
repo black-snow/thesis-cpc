@@ -15,6 +15,7 @@ Dependencies for the CPC reproduction:
 * pandas 1.0.5
 * matplotlib 3.3.0
 * jupyterlab
+* torchsummary 1.5.1
 
 Dependencies for the application on BN16:
 * python 3.7 
